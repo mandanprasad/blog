@@ -301,7 +301,7 @@ btn:visited {
 @media only screen and (max-width: 600px) {
   .section__recent {
     padding-bottom: 100px;
-    width: 100%;
+    
   }
 }
 

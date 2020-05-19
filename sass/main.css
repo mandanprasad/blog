@@ -16,7 +16,7 @@ html {
   html {
     font-size: 50%;
     zoom: 55%;
-    width: 100vh;
+    
 
   }
 }
@@ -301,6 +301,7 @@ btn:visited {
 @media only screen and (max-width: 600px) {
   .section__recent {
     padding-bottom: 100px;
+    width: 100%;
   }
 }
 
@@ -338,7 +339,7 @@ box-shadow: 0 15px 40px rgba(0, 0, 0, 0.9);
 }
 @media only screen and (max-width: 600px) {
   .recent__col-1-of-2{
-    width: 260px; float: none;
+    width: 60%;
   }
 }
 
@@ -423,6 +424,7 @@ canvas{
     width: 400px;
     height: 500px;
     font-size: 20px;
+   
     
   }
 }
@@ -727,7 +729,7 @@ canvas{
   position: relative;
 }
 @media only screen and (max-width:600px) {
-  .footer {width:100%; padding-bottom: 270px; font-size: 22px;}
+  .footer {padding-bottom: 270px; font-size: 22px;}
 }
 
 .footer__logo-box {
